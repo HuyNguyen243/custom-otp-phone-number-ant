@@ -1,0 +1,30 @@
+.antd-country-phone-input{
+  .ant-input-wrapper{
+    .ant-input-group-addon{
+      width: 50%;
+      border-right: 1px solid #d9d9d9;
+      border-radius: 5px;
+      background-color: transparent;
+      .ant-select-selector{
+        padding: 0;
+      }
+    }
+
+    input{
+      margin-left: 5px;
+      border-radius: 5px !important;
+    }
+  }
+
+  .ant-select{
+    width: 100%;
+  }
+}
+
+.ant-input-group-wrapper-status-error.antd-country-phone-input{
+  .ant-input-wrapper{
+    .ant-input-group-addon{
+      border-right: 1px solid #ff4d4f;
+    }
+  }
+}
