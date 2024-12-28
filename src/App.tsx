@@ -26,6 +26,8 @@ function App() {
 
   return (
     <>
+      <p>test2</p>
+      <p>test3</p>
       <Form
         name="basic"
         labelCol={{ span: 8 }}
