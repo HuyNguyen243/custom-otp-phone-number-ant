@@ -27,7 +27,12 @@ function App() {
   return (
     <>
       <p>test 1</p>
+<<<<<<< HEAD
+      <p>test 4</p>
+      <p>test 3</p>
+=======
       <p>test 6</p>
+>>>>>>> f05d6f3357f7baffd58abd7c6e7bbb0ae6617541
       <Form
         name="basic"
         labelCol={{ span: 8 }}
